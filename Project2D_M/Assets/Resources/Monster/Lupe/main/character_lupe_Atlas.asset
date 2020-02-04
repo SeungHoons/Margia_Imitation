@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: character_lupe_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 9c2844bc9d6a9624eabfed3a5786d862, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 72388ba6509826943bc30ca289213112, type: 2}
+  - {fileID: 2100000, guid: 94e2e72c3ed7a194890e3a78d927fd2b, type: 2}
+  - {fileID: 2100000, guid: 92609e2d0f7b548498e03c861168e78f, type: 2}
+  - {fileID: 2100000, guid: 58cf618747b6c74409b98a880f14e3a7, type: 2}
